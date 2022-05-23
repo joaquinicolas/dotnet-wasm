@@ -1,0 +1,12 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Joaquin Noe",
+    "classifications": [ "Common", "Blazor app" ],
+    "identity": "ExampleTemplate.BlazorApp",
+    "name": "Example templates: blazor app",
+    "shortName": "blazorapp",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    }
+  }
